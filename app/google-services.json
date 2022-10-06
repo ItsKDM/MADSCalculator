@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "223868135634",
+    "project_id": "mads-app1",
+    "storage_bucket": "mads-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223868135634:android:8179c00a7fb7ca336a250b",
+        "android_client_info": {
+          "package_name": "com.example.kdm.madsapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223868135634-fq80udobl46jo5e3ukik69thv32fndha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeTcQWMm87VBXBR92AojpNIM18BDbL9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223868135634-fq80udobl46jo5e3ukik69thv32fndha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223868135634:android:cb89af42e44ff4c36a250b",
+        "android_client_info": {
+          "package_name": "com.example.kdm.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223868135634-e78k1jb1hc1l5uv9r11k0i9hujrh56ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kdm.myapplication",
+            "certificate_hash": "6b9de58c4968a504a30bd08832a6084068dfd100"
+          }
+        },
+        {
+          "client_id": "223868135634-fq80udobl46jo5e3ukik69thv32fndha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeTcQWMm87VBXBR92AojpNIM18BDbL9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223868135634-fq80udobl46jo5e3ukik69thv32fndha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
