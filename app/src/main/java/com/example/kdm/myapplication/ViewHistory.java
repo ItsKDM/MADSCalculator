@@ -59,7 +59,7 @@ public class ViewHistory extends AppCompatActivity {
                         Toast.makeText(ViewHistory.this, "No History", Toast.LENGTH_SHORT).show();
                     }
                 }
-                Toast.makeText(ViewHistory.this, "Size : "+historyData.size(), Toast.LENGTH_SHORT).show();
+//                 Toast.makeText(ViewHistory.this, "Size : "+historyData.size(), Toast.LENGTH_SHORT).show();
                 recyclerView.setAdapter(recyclerViewAdapter);
                 recyclerViewAdapter.notifyDataSetChanged();
                 progressDialog.dismiss();
